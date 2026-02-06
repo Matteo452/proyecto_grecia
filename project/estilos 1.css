@@ -1,0 +1,25 @@
+@charset "utf-8";
+body {
+    color: #A3F88B;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    background-image: url(download%20(3).jpg);
+    background-image: url(download%20(1).jpg);
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(246,227,249,0.89) 15.54%,rgba(248,177,255,0.77) 23.83%,rgba(243,158,255,0.71) 39.90%,rgba(240,130,255,0.71) 50.78%,rgba(243,128,255,0.86) 62.69%,rgba(212,70,251,0.28) 94.30%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(246,227,249,0.89) 15.54%,rgba(248,177,255,0.77) 23.83%,rgba(243,158,255,0.71) 39.90%,rgba(240,130,255,0.71) 50.78%,rgba(243,128,255,0.86) 62.69%,rgba(212,70,251,0.28) 94.30%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(246,227,249,0.89) 15.54%,rgba(248,177,255,0.77) 23.83%,rgba(243,158,255,0.71) 39.90%,rgba(240,130,255,0.71) 50.78%,rgba(243,128,255,0.86) 62.69%,rgba(212,70,251,0.28) 94.30%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(246,227,249,0.89) 15.54%,rgba(248,177,255,0.77) 23.83%,rgba(243,158,255,0.71) 39.90%,rgba(240,130,255,0.71) 50.78%,rgba(243,128,255,0.86) 62.69%,rgba(212,70,251,0.28) 94.30%);
+}
+h1 {
+    color: #7E0303;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    background-color: #FFADB4;
+}
+table {
+    color: #CB5011;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    background-color: #FFADB4;
+    border: 2px solid red;
+    border-radius: 7px;
+}
+tam1 {
+}
